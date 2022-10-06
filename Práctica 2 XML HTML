@@ -1,1 +1,68 @@
-ff
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Práctica 2 </title>
+        <link rel="shortcut icon" href="https://lh3.googleusercontent.com/o8ZrRyPQ6h9ZAXBo3t_mrfkLKkcZoe7-MfyWxmuuY0NXGATfbGJLxU1buy0Y46l_H3zX1LJq_v_juCk=w1897-h892">
+        <link rel="stylesheet" href="Práctica 2.css">
+    </head>
+    <body>
+    <h1 id="Principal">Practica 2 de ASIR 1 en colegio <a src href='http://www.andel.es' target="_blank">Andel</a></h1>
+    <br>
+    <h2>Textos</h2>
+     <hr>
+        <div class="fondo">
+        <p class="fondo">
+            Para hacer esta <color style="color:rgb(250, 37, 0);">primera practica</color> revisar el <b>capítulo, HTML y XHTML</b>
+        </p>
+        <br>
+        <b>Este segundo parrafo es importante</b>
+        <p>Esta es la tercera <i>línea</i></p>
+    </div>
+        <br>
+    <h1>Listas de paises</h1>
+        <hr>
+        <ul>
+            <li>Europa</li>
+                <ol>
+                    <li>España</li>
+                    <li>Francia</li>
+                    <li>Italia</li>
+                </ol>
+        </ul>
+        <ul>
+            <li>Asia</li>
+                <ol>
+                    <li>Japón</li>
+                    <li>China</li>
+                    <li>Corea del Norte</li>
+                </ol>
+        </ul>
+    <h1>Listas de términos</h1>
+    <hr>
+    <p>Permite crear una lista de definiciones de términos. En ellas se indica el término a definir y su significado. Ejemplo:</p>
+    <br>
+    <pre>
+        &lt;dl&gt;
+                &lt;dt&gt;Windows&lt;/dl&gt;
+                &lt;dd&gt;
+                        Sistema operativo de <b>Microsoft</b> disponible para PC
+                        disponible en versiones 32 y 64 bits y para servidores,
+                        ordenadores e incluso tabletas y móviles.
+
+                        La ultima versión es la 8 y la 2012 para servidores.   
+                &lt;/dd&gt;
+                &lt;dt&gt;Linux&lt;/dl&gt;
+                &lt;dd&gt;
+                        Sistema operativo de código abierto disponible
+                        en numerosas distribuciones gratuitas y de pago.
+                        Es la base del sistema <b>Android</b>. 
+                &lt;/dd&gt;
+
+        &lt;/dl&gt;         
+    </pre>
+    
+<a href="#Principal">Inicio</a>
+</body>
+</html>
