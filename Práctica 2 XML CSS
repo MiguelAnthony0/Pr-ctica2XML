@@ -1,3 +1,6 @@
 .fondo{
     background-color: grey; 
 }
+.letracolor{
+    color:red;
+}
