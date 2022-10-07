@@ -14,7 +14,7 @@
      <hr>
         <div class="fondo">
         <p class="fondo">
-            Para hacer esta <color style="color:rgb(250, 37, 0);">primera practica</color> revisar el <b>capítulo, HTML y XHTML</b>
+            Para hacer esta <a class="letracolor">primera practica</a> revisar el <b>capítulo, HTML y XHTML</b>
         </p>
         <br>
         <b>Este segundo parrafo es importante</b>
